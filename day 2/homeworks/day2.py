@@ -1,0 +1,11 @@
+name = ("mom is ")
+age = ("40 years old")
+print (name +' '+age)
+name = ("dad is")
+age = ("41 years old")
+print (name +" "+ age)
+name = ("sister is")
+age = ("17 years old")
+print (name +" "+ age)
+
+print ((41 + 10)-(14+10))
